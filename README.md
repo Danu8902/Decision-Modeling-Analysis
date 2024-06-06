@@ -1,4 +1,4 @@
-F1 Decision Modeling Project
+## F1 Decision Modeling Project
 Overview
 Welcome to the Decision Modeling project repository! This project is dedicated to analyzing F1 racing data to aid recruitment decisions for the FIA (Fédération Internationale de l'Automobile). The primary goal is to leverage data science techniques to uncover insights into driver performance, experience, and consistency. By employing advanced machine learning models such as linear regression, decision trees, and random forests, we aim to provide actionable recommendations to enhance the FIA's recruitment strategies.
 
