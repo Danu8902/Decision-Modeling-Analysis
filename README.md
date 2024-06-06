@@ -24,23 +24,33 @@ Welcome to the Decision Modeling project repository! This project is dedicated t
    - **Focus Areas:** Performance metrics, experience levels, and consistency as critical factors in driver success.
    - **Recommendations:** Optimize recruitment strategies by identifying promising talent and refining selection criteria.
 
-Project Objectives
+## Project Objectives
+
 The Decision Modeling project aims to:
 
-Provide the FIA with data-driven insights into factors contributing to successful driving careers.
-Enhance decision-making processes related to driver recruitment and development.
-Foster the identification and nurturing of top-tier driving talent globally.
-How to Use This Repository
-Data: The repository contains cleaned and processed F1 racing data suitable for analysis.
-Code: Python scripts for data cleaning, EDA, and predictive modeling using popular libraries (e.g., Pandas, Scikit-learn).
-Documentation: Detailed explanations of methodologies, model evaluations, and insights derived.
-Reports: Summaries of findings, conclusions, and actionable recommendations.
-Future Work
+- Provide the FIA with data-driven insights into factors contributing to successful driving careers.
+- Enhance decision-making processes related to driver recruitment and development.
+- Foster the identification and nurturing of top-tier driving talent globally.
+
+## How to Use This Repository
+
+This repository is structured to facilitate analysis and insights generation from F1 racing data. Here’s how you can navigate and utilize its contents:
+
+- **Data**: The repository contains cleaned and processed F1 racing data suitable for analysis.
+- **Code**: Python scripts are provided for:
+  - Data cleaning
+  - Exploratory Data Analysis (EDA)
+  - Predictive modeling using popular libraries such as Pandas and Scikit-learn.
+- **Documentation**: Detailed explanations of methodologies, model evaluations, and insights derived from the analysis are included.
+- **Reports**: Summaries of findings, conclusions, and actionable recommendations are available for reference.
+
+## Future Work
+
 As the F1 landscape evolves, ongoing enhancements and updates to the models and analyses will be necessary. Future iterations may include:
 
-Incorporating real-time data for more dynamic predictions.
-Exploring additional machine learning algorithms for improved accuracy.
-Collaborating with FIA stakeholders to refine model outputs based on practical feedback.
+- Incorporating real-time data for more dynamic predictions.
+- Exploring additional machine learning algorithms for improved accuracy.
+- Collaborating with FIA stakeholders to refine model outputs based on practical feedback.
 
 ## Contributors
 
