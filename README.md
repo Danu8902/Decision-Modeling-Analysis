@@ -55,5 +55,5 @@ As the F1 landscape evolves, ongoing enhancements and updates to the models and 
 ## Contributors
 
 - **Zinhle Ngubane**
-  - Email: ngubanezinhle08@gmailcom
+  - Email: ngubanezinhle08@gmail.com
   - LinkedIn: www.linkedin.com/in/zinhle-ngubane-a27510b9
