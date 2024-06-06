@@ -3,22 +3,27 @@
 Welcome to the Decision Modeling project repository! This project is dedicated to analyzing F1 racing data to aid recruitment decisions for the FIA (Fédération Internationale de l'Automobile). The primary goal is to leverage data science techniques to uncover insights into driver performance, experience, and consistency. By employing advanced machine learning models such as linear regression, decision trees, and random forests, we aim to provide actionable recommendations to enhance the FIA's recruitment strategies.
 
 ## Key Components
-**1. Data Cleaning**
-**Objective:** Ensure accuracy and consistency of raw F1 racing data for meaningful analysis.
-**Methodology:** Preprocess data to handle missing values, outliers, and ensure data quality standards.
-**2. Exploratory Data Analysis (EDA)**
-**Objective:** Visualize and summarize data to identify patterns and trends influencing driver performance.
-**Approach:** Use statistical graphs and charts to explore relationships between variables and detect outliers.
-**3. Predictive Modeling**
-**Objective:** Test hypotheses and predict future performance based on historical F1 racing data.
-**Techniques Used:**
-**Linear Regression:** Evaluate relationships and predict performance metrics.
-**Decision Trees:** Classify drivers based on performance metrics and identify key decision points.
-**Random Forests:** Improve prediction accuracy by aggregating multiple decision trees.
-**4. Insights and Recommendations**
-**Outcome:** Derive actionable insights to support the FIA in making informed recruitment decisions.
-**Focus Areas:** Performance metrics, experience levels, and consistency as critical factors in driver success.
-**Recommendations:** Optimize recruitment strategies by identifying promising talent and refining selection criteria.
+
+1. **Data Cleaning**
+   - **Objective:** Ensure accuracy and consistency of raw F1 racing data for meaningful analysis.
+   - **Methodology:** Preprocess data to handle missing values, outliers, and ensure data quality standards.
+
+2. **Exploratory Data Analysis (EDA)**
+   - **Objective:** Visualize and summarize data to identify patterns and trends influencing driver performance.
+   - **Approach:** Use statistical graphs and charts to explore relationships between variables and detect outliers.
+
+3. **Predictive Modeling**
+   - **Objective:** Test hypotheses and predict future performance based on historical F1 racing data.
+   - **Techniques Used:**
+     - Linear Regression: Evaluate relationships and predict performance metrics.
+     - Decision Trees: Classify drivers based on performance metrics and identify key decision points.
+     - Random Forests: Improve prediction accuracy by aggregating multiple decision trees.
+
+4. **Insights and Recommendations**
+   - **Outcome:** Derive actionable insights to support the FIA in making informed recruitment decisions.
+   - **Focus Areas:** Performance metrics, experience levels, and consistency as critical factors in driver success.
+   - **Recommendations:** Optimize recruitment strategies by identifying promising talent and refining selection criteria.
+
 Project Objectives
 The Decision Modeling project aims to:
 
